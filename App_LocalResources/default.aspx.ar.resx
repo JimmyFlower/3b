@@ -118,62 +118,62 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="gender.text" xml:space="preserve">
-    <value>我是:</value>
+    <value>انا</value>
     <comment>2</comment>
   </data>
   <data name="hope.text" xml:space="preserve">
-    <value>当我毕业了，我希望能获得:</value>
+    <value>عندما تخرجي، وآمل أن تكسب</value>
     <comment>6</comment>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>我的名字是:</value>
+    <value>اسمي هو</value>
     <comment>1</comment>
   </data>
   <data name="plan.text" xml:space="preserve">
-    <value>我打算毕业:</value>
+    <value>أخطط لتخرج على</value>
     <comment>5</comment>
   </data>
   <data name="Submit.Text" xml:space="preserve">
-    <value>提交</value>
+    <value>عرض</value>
     <comment>7</comment>
   </data>
   <data name="Female.text" xml:space="preserve">
-    <value>女</value>
+    <value>أنثى</value>
     <comment>3</comment>
   </data>
   <data name="Male.text" xml:space="preserve">
-    <value>男</value>
+    <value>ذكر</value>
     <comment>4</comment>
   </data>
-  <data name="Back.text" xml:space="preserve">
-    <value>向后</value>
-  </data>
   <data name="career.text" xml:space="preserve">
-    <value>祝你毕业后有一个伟大的职业生涯。希望你可以得到</value>
+    <value>أتمنى لديك مهنة عظيمة بعد التخرج. آمل أن تتمكن من الحصول على مبلغ</value>
     <comment>12</comment>
   </data>
   <data name="dream.text" xml:space="preserve">
-    <value>我希望你的梦想成真，当你毕业时</value>
+    <value>آمل الحلم حقيقة، عند التخرج في</value>
     <comment>11</comment>
   </data>
   <data name="hello.text" xml:space="preserve">
-    <value>您好，</value>
+    <value>مرحبا،</value>
     <comment>8</comment>
   </data>
   <data name="job.text" xml:space="preserve">
-    <value>的时候，你得到你的第一份工作！</value>
+    <value>عندما تحصل على وظيفتك الأولى!</value>
     <comment>13</comment>
   </data>
   <data name="Mr.text" xml:space="preserve">
-    <value>先生</value>
+    <value>السيد.</value>
     <comment>9</comment>
   </data>
   <data name="Ms.text" xml:space="preserve">
-    <value>女士</value>
+    <value>السيدة.</value>
     <comment>10</comment>
   </data>
   <data name="visit.text" xml:space="preserve">
-    <value>请访问我页面</value>
+    <value>يرجى زيارة لي في</value>
     <comment>14</comment>
+  </data>
+  <data name="Back.text" xml:space="preserve">
+    <value>ظهر</value>
   </data>
 </root>

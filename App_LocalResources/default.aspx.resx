@@ -118,25 +118,62 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="gender.text" xml:space="preserve">
-    <value>I am:</value>
+    <value>I am</value>
+    <comment>2</comment>
   </data>
   <data name="hope.text" xml:space="preserve">
-    <value>When I graduate, I hope to earn:</value>
+    <value>When I graduate, I hope to earn</value>
+    <comment>6</comment>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>My name is:</value>
+    <value>My name is</value>
     <comment>1</comment>
   </data>
   <data name="plan.text" xml:space="preserve">
-    <value>I plan to graduate on:</value>
+    <value>I plan to graduate on</value>
+    <comment>5</comment>
   </data>
   <data name="Submit.Text" xml:space="preserve">
-    <value>Submit!</value>
+    <value>Submit</value>
+    <comment>7</comment>
   </data>
   <data name="Female.text" xml:space="preserve">
     <value>Female</value>
+    <comment>3</comment>
   </data>
   <data name="Male.text" xml:space="preserve">
     <value>Male</value>
+    <comment>4</comment>
+  </data>
+  <data name="career.text" xml:space="preserve">
+    <value>Wish you have a great career after graduation. Hope you can get</value>
+    <comment>12</comment>
+  </data>
+  <data name="dream.text" xml:space="preserve">
+    <value>I hope your dream come true, when you graduate at</value>
+    <comment>11</comment>
+  </data>
+  <data name="hello.text" xml:space="preserve">
+    <value>Hello,</value>
+    <comment>8</comment>
+  </data>
+  <data name="job.text" xml:space="preserve">
+    <value>when you get your first job!</value>
+    <comment>13</comment>
+  </data>
+  <data name="Mr.text" xml:space="preserve">
+    <value>Mr.</value>
+    <comment>9</comment>
+  </data>
+  <data name="Ms.text" xml:space="preserve">
+    <value>Ms.</value>
+    <comment>10</comment>
+  </data>
+  <data name="visit.text" xml:space="preserve">
+    <value>Please visit me at</value>
+    <comment>14</comment>
+  </data>
+  <data name="back.text" xml:space="preserve">
+    <value>Back</value>
   </data>
 </root>
